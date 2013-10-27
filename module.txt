@@ -1,0 +1,9 @@
+{
+    "id" : "DynamicBlocks",
+    "version" : "0.1.0",
+    "author" : "Pencilcheck (and Metouto for placeholder rail blocks)",
+    "displayName" : "Dynamic Blocks (e.g. moving blocks)",
+    "description" : "Blocks that are locomotive, vehicular, that have mechanisms",
+    "dependencies" : [],
+    "isServerSideOnly" : false
+}
